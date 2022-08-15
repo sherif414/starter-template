@@ -1,8 +1,5 @@
 {
-  "cSpell.words": [
-    "Vitesse"
-  ],
-  "prettier.enable": false,
+  "prettier.enable": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
@@ -15,5 +12,6 @@
   "volar.completion.preferredTagNameCase": "pascal",
   "volar.icon.preview": false,
   "volar.icon.splitEditors": false,
-  "volar.vueserver.useSecondServer": true
+  "volar.vueserver.useSecondServer": true,
+  "html.format.wrapAttributes": "force"
 }
