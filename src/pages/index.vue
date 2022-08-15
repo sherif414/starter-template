@@ -3,8 +3,7 @@
 
 <template>
   <div class="grid justify-items-center min-h-screen">
-    <button
-      class="i-material-symbols-light-mode-outline dark:i-material-symbols-dark-mode-outline py-8"
+    <button class="i-ph-sun-fill dark:i-ph-moon-fill py-8"
       @click="toggleDark()" />
     <h1 class="text-4rem">
       Hello Fucking World !

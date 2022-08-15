@@ -2,8 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@antfu/eslint-config': ^0.25.2
-  '@iconify-json/carbon': ^1.1.7
-  '@iconify-json/material-symbols': ^1.1.14
+  '@iconify-json/ph': ^1.1.2
   '@types/node': ^18.7.3
   '@unocss/reset': ^0.44.7
   '@vitejs/plugin-vue': ^3.0.3
@@ -31,8 +30,7 @@ dependencies:
 
 devDependencies:
   '@antfu/eslint-config': 0.25.2_4rv7y5c6xz3vfxwhbrcxxi73bq
-  '@iconify-json/carbon': 1.1.7
-  '@iconify-json/material-symbols': 1.1.14
+  '@iconify-json/ph': 1.1.2
   '@types/node': 18.7.3
   '@unocss/reset': 0.44.7
   '@vitejs/plugin-vue': 3.0.3_vite@3.0.7+vue@3.2.37
@@ -265,14 +263,8 @@ packages:
     resolution: {integrity: sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==}
     dev: true
 
-  /@iconify-json/carbon/1.1.7:
-    resolution: {integrity: sha512-QULSpNWKaX4auIbjITDynfALdJYvOOy/xZb+aLOqCgvpBcmbz5tbqvow4r25FWtVsi4FHVpNQ8vyJZXsD1Hlxg==}
-    dependencies:
-      '@iconify/types': 1.1.0
-    dev: true
-
-  /@iconify-json/material-symbols/1.1.14:
-    resolution: {integrity: sha512-xWw32NNz9S0zB5WXc3igQACvKm1e0uK7NRb5M/PdZhbvpzUvpWuUurlKQeROEyN1a9QTy1dKoc2THMnJ8B/ZPg==}
+  /@iconify-json/ph/1.1.2:
+    resolution: {integrity: sha512-NuTdtt/UmuxIHS4hfdyv3BP5JiWikNkr81hFHXDScXlH0GUMdRSY/B5T9vDvbXDY/esMLFnIAXoFVDLsGinhpw==}
     dependencies:
       '@iconify/types': 1.1.0
     dev: true
